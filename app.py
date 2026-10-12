@@ -37,7 +37,7 @@ places_data = {
             ),
             "lat": 53.3797,
             "lon": 33.8778,
-            "img": ["h/li.jpg", "h/kh.webp"]
+            "img": ["li.jpg", "kh.webp"]
         },
         {
             "name": "Aleksey Tolstoy House Museum (Krasny Rog)",
@@ -49,7 +49,7 @@ places_data = {
             ),
             "lat": 52.9231,
             "lon": 33.4717,
-            "img": ["h/was.jpg", "h/i (28).webp"]
+            "img": ["was.jpg", "i (28).webp"]
         }
     ],
     "Saint Petersburg": [
@@ -64,7 +64,7 @@ places_data = {
             ),
             "lat": 59.9417,
             "lon": 30.3083,
-            "img": ["h/i.webp", "h/l.jpg"]
+            "img": ["i.webp", "l.jpg"]
         },
         {
             "name": "Fyodor Dostoevsky Literary and Memorial Museum",
@@ -92,7 +92,7 @@ places_data = {
             ),
             "lat": 54.0758,
             "lon": 37.5266,
-            "img": ["h/ioh.jpg", "h/palen.jpg"]
+            "img": ["ioh.jpg", "palen.jpg"]
         },
         {
             "name": "Mikhail Bulgakov House Museum ('The Naughty Apartment')",
@@ -105,7 +105,7 @@ places_data = {
             ),
             "lat": 55.7663,
             "lon": 37.6000,
-            "img": ["h/pop.jpg", "h/lodka.jpg"]
+            "img": ["pop.jpg", "lodka.jpg"]
         }
     ]
 }
