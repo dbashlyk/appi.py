@@ -77,7 +77,7 @@ places_data = {
             ),
             "lat": 59.9343,
             "lon": 30.3351,
-            "img": ["h/i (27).webp", "h/fap.jpg"]
+            "img": ["i (27).webp", "fap.jpg"]
         }
     ],
     "Tylskya Oblast and Moscow": [
